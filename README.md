@@ -47,3 +47,18 @@ Here are some previews:
 
 Correct means the colour is in the correct position, almost means it is 1 within the correct position
 
+## Connect4 Embeded
+This is part of a bigger project but for now I'll just show the embeded site, basically it just gives you a connect4 game which you can embed into your websites, I have added it to my Web Operating System as an app, without having to write any game code inside that project.
+
+Use this URL to access the embed mode: https://connect4-863d1.web.app/game.html?embed=true
+
+The minimum width and height is: 740px X 1000px
+If this is too large or too small for you, you can also add an optional scale parameter, 0.5 will apply a 50% scale, 2 will apply a 200% scale.
+Here is an example of a URL with scale: https://connect4-863d1.web.app/game.html?embed=true&&scale=0.5
+
+Here is an example to just add to your HTML:
+```
+<iframe  style="height: 1000px; width: 740px" src="https://connect4-863d1.web.app/game.html?embed=true&&scale=1"></iframe>
+```
+
+
