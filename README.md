@@ -24,8 +24,8 @@ Front-end is built with Angular, but backend API is built in Python with Firebas
 
 ## Logins:
 
-Restaurant Email: res@outlook.com (Restaurant A)
+Restaurant Email: res@outlook.com (Restaurant A)\
 Restaurant Password: nothing123
 
-Customer Email: test@outlook.com
+Customer Email: test@outlook.com\
 Customer Password: nothing123
