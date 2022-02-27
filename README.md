@@ -4,7 +4,7 @@
 # Table of Contents:
 - [Allergy Menu](#Allergy-Menu)
 - [Colour Game](#Colour-Game)
-- [Connect4 (Embedded)](#Connect4 Embedded)
+- [Connect4 (Embedded)](#Connect4-Embedded)
 
 
 
