@@ -3,7 +3,7 @@
 
 # Table of Contents:
 1. [bruh](#example)
-2. [test 2](#example2)
+2. [test 2](#example\ 2)
 
 
 
