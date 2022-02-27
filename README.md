@@ -17,11 +17,11 @@ Finished the basic concept, there are still a few issues but they are more visua
 
 Here is the customer website: https://allergycheckercustomer.azurewebsites.net, below is a sample photo of the customer site:
 
-![Image 1](https://github.com/AryaaSk/Allergy_Menu/blob/master/Photo_Previews/Allergy_Checker_Customer_1.png?raw=true)
+![Image 1](https://github.com/AryaaSk/Other-Projects/blob/main/Previews/Allergy_Checker_Customer_1.png?raw=true)
 
 Here is the restaurant website: https://allergycheckerrestaurant.azurewebsites.net, below is a sample photo of the restaurant site:
 
-![Image 1](https://github.com/AryaaSk/Allergy_Menu/blob/master/Photo_Previews/Allergy_Checker_Restaurant_1.png?raw=true)
+![Image 1](https://github.com/AryaaSk/Other-Projects/blob/main/Previews/Allergy_Checker_Restaurant_1.png?raw=true)
 
 Front-end is built with Angular, but backend API is built in Python with Firebase for the authentication and database. Used Azure to host the website and the API.
 
@@ -41,9 +41,9 @@ Here is the URL: https://colours.azurewebsites.net
 
 Here are some previews:
 
-![Preview1](https://github.com/AryaaSk/Colour-Game/blob/master/Previews/screenshot1.png?raw=true)
+![Preview1](https://github.com/AryaaSk/Other-Projects/blob/main/Previews/colourGame1.png?raw=true)
 
-![Preview2](https://github.com/AryaaSk/Colour-Game/blob/master/Previews/screenshot2.png?raw=true)
+![Preview2](https://github.com/AryaaSk/Other-Projects/blob/main/Previews/colourGame2.png?raw=true)
 
 Correct means the colour is in the correct position, almost means it is 1 within the correct position
 
@@ -61,4 +61,7 @@ Here is an example to just add to your HTML:
 <iframe  style="height: 1000px; width: 740px" src="https://connect4-863d1.web.app/game.html?embed=true&&scale=1"></iframe>
 ```
 
+Here is a preview:
+
+![Preview1](https://github.com/AryaaSk/Other-Projects/blob/main/Previews/connect4.png?raw=true)
 
