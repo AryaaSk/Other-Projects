@@ -63,5 +63,5 @@ Here is an example to just add to your HTML:
 
 Here is a preview:
 
-![Preview1](https://github.com/AryaaSk/Other-Projects/blob/main/Previews/connect4.png?raw=true)
+![Preview1](https://github.com/AryaaSk/Other-Projects/blob/main/Previews/conenct4.png?raw=true)
 
