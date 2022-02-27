@@ -4,7 +4,7 @@
 # Table of Contents:
 - [Allergy Menu](#Allergy-Menu)
 - [Colour Game](#Colour-Game)
-
+- [Connect4 (Embedded)](#Connect4 Embedded)
 
 
 
@@ -47,7 +47,7 @@ Here are some previews:
 
 Correct means the colour is in the correct position, almost means it is 1 within the correct position
 
-## Connect4 Embeded
+## Connect4 Embedded
 This is part of a bigger project but for now I'll just show the embeded site, basically it just gives you a connect4 game which you can embed into your websites, I have added it to my Web Operating System as an app, without having to write any game code inside that project.
 
 Use this URL to access the embed mode: https://connect4-863d1.web.app/game.html?embed=true
