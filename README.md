@@ -3,10 +3,11 @@
 
 # Table of Contents:
 1. [bruh](#example)
+2. [test 2](#example 2)
 
 
 
 ## Example
-## Example2
+## Example 2
 ## Third Example
 ## [Fourth Example](http://www.fourthexample.com) 
