@@ -59,6 +59,7 @@ Here are some previews:
 ![Preview1](https://github.com/AryaaSk/Other-Projects/blob/main/Previews/connect41.png?raw=true)
 
 ![Preview2](https://github.com/AryaaSk/Other-Projects/blob/main/Previews/connect43.png?raw=true)
+*Unfortunately I had to write this in AngularJS instead of the usual Angular, and so there are quite a few bugs in the game, however they shouldn't hinder the playing experience too much. The code is also very messy but you can't really tell from the outside which is good*
 
 ## Embedded:
 This is a local version of the connect4, and I have enabled you to just embed it into your own project
