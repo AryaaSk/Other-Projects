@@ -4,7 +4,7 @@
 # Table of Contents:
 - [Allergy Menu](#Allergy-Menu)
 - [Colour Game](#Colour-Game)
-- [Connect4 (Embedded)](#Connect4-Embedded)
+- [Connect4](#Connect4)
 
 
 
@@ -47,8 +47,22 @@ Here are some previews:
 
 Correct means the colour is in the correct position, almost means it is 1 within the correct position
 
-## Connect4 Embedded
-This is part of a bigger project but for now I'll just show the embeded site, basically it just gives you a connect4 game which you can embed into your websites, I have added it to my Web Operating System as an app, without having to write any game code inside that project.
+## Connect4
+A Connect4 multiplayer game, where you have to get 4 in a row\
+This was mainly so I could more about interacting with Firebase Realtime databases.
+
+Here is the URL: https://aryaaconnect4.z33.web.core.windows.net/
+
+You create an account and then you can choose a custom colour, then click find match and it will place you in the queue, until someone else joins and then you will be against them. You get +25 rating when you win and -25 when you lose
+
+Here are some previews:
+![Preview1](https://github.com/AryaaSk/Other-Projects/blob/main/Previews/connect41.png?raw=true)
+
+![Preview2](https://github.com/AryaaSk/Other-Projects/blob/main/Previews/connect43.png?raw=true)
+
+## Embedded:
+This is a local version of the connect4, and I have enabled you to just embed it into your own project
+I have added it to my Web Operating System as an app, without having to write any game code inside that project.
 
 Use this URL to access the embed mode: https://connect4-863d1.web.app/game.html?embed=true
 
