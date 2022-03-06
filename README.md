@@ -3,6 +3,7 @@
 
 # Table of Contents:
 - [Allergy Menu](#Allergy-Menu)
+- [Plannu](#Plannu)
 - [Colour Game](#Colour-Game)
 - [Connect4](#Connect4)
 
@@ -34,6 +35,18 @@ Customer Email: test@outlook.com\
 Customer Password: nothing123
 
 
+## Plannu
+Plannu is an iOS app designed to help people in such as tutors or personal trainers. 
+
+You just add the people you work with and put your sessions on the inbuilt calendar, and Plannu will automatically calculate the monthly bill for each specific person. You can also add groups and cancel sessions (with or without cancelling payment), and you can add notes next to each session, person or group.
+
+It is on the iOS app store here: https://apps.apple.com/us/app/plannu/id1530983939
+
+Here are some previews:
+![Preview1](https://github.com/AryaaSk/Other-Projects/blob/main/Previews/PlannuPreviews1.png?raw=true)
+![Preview2](https://github.com/AryaaSk/Other-Projects/blob/main/Previews/PlannuPreviews2.png?raw=true)
+
+
 ## Colour Game
 A game where you have to try and get all the colours in the correct order, it shows you your previous moves and you have to use trial and error to get the correct order.
 
@@ -46,6 +59,7 @@ Here are some previews:
 ![Preview2](https://github.com/AryaaSk/Other-Projects/blob/main/Previews/colourGame2.png?raw=true)
 
 Correct means the colour is in the correct position, almost means it is 1 within the correct position
+
 
 ## Connect4
 A Connect4 multiplayer game, where you have to get 4 in a row\
@@ -61,7 +75,7 @@ Here are some previews:
 ![Preview2](https://github.com/AryaaSk/Other-Projects/blob/main/Previews/connect43.png?raw=true)
 *Unfortunately I had to write this in AngularJS instead of the usual Angular, which means the code is messy and there are a few bugs, such as if 2 players have the same colour it will just let the host (the player who starts) win. However the bugs shouldn't hinder the playing experience too much*
 
-## Embedded:
+### Embedded:
 This is a local version of the connect4, and I have enabled you to just embed it into your own project
 I have added it to my Web Operating System as an app, without having to write any game code inside that project.
 
@@ -79,4 +93,3 @@ Here is an example to just add to your HTML:
 Here is a preview:
 
 ![Preview1](https://github.com/AryaaSk/Other-Projects/blob/main/Previews/conenct4.png?raw=true)
-
