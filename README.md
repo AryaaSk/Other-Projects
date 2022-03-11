@@ -6,6 +6,7 @@
 - [Plannu](#Plannu)
 - [Colour Game](#Colour-Game)
 - [Connect4](#Connect4)
+
 - [Other Ideas](#Other-Ideas)
 
 
