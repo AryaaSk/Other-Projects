@@ -101,3 +101,6 @@ This website is just like a visual representation of the fetch-decode-execute cy
 
 ### LingoLearn online website:
 Just like the app, I can just use the already existing API and create a website, will have the store the words in local storage similar to how it is stored in user defaults in iOS.
+
+### SQL Database Viewer
+A frontend application which can create, update, and delete data from a backend SQL database, could also make this in a simple python project, just to learn about SQL and it's commands better.
