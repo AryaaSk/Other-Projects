@@ -6,7 +6,7 @@
 - [Plannu](#Plannu)
 - [Colour Game](#Colour-Game)
 - [Connect4](#Connect4)
-
+- [Other Ideas](#Other-Ideas)
 
 
 ## Allergy Menu
@@ -95,7 +95,7 @@ Here is a preview:
 ![Preview1](https://github.com/AryaaSk/Other-Projects/blob/main/Previews/conenct4.png?raw=true)
 
 
-## Other Ideas:
+## Other Ideas
 ### Fetch-Decode-Execute Cycle Demo
 This website is just like a visual representation of the fetch-decode-execute cycle which occurs inside CPUs. The user will be able to input some instructions, it shows which step it is currently on and overall just shows how a computer works. I could use this video to better visualise what it should do: https://www.youtube.com/watch?v=Z5JC9Ve1sfI
 
