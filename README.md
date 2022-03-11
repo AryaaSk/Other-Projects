@@ -93,3 +93,11 @@ Here is an example to just add to your HTML:
 Here is a preview:
 
 ![Preview1](https://github.com/AryaaSk/Other-Projects/blob/main/Previews/conenct4.png?raw=true)
+
+
+## Other Ideas:
+### Fetch-Decode-Execute Cycle Demo
+This website is just like a visual representation of the fetch-decode-execute cycle which occurs inside CPUs. The user will be able to input some instructions, it shows which step it is currently on and overall just shows how a computer works. I could use this video to better visualise what it should do: https://www.youtube.com/watch?v=Z5JC9Ve1sfI
+
+### LingoLearn online website:
+Just like the app, I can just use the already existing API and create a website, will have the store the words in local storage similar to how it is stored in user defaults in iOS.
