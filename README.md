@@ -6,6 +6,7 @@
 - [Plannu](#Plannu)
 - [Colour Game](#Colour-Game)
 - [Connect4](#Connect4)
+- [RL Investments](#RL-Investments)
 - [Other Ideas](#Other-Ideas)
 
 
@@ -94,6 +95,11 @@ Here is a preview:
 
 ![Preview1](https://github.com/AryaaSk/Other-Projects/blob/main/Previews/conenct4.png?raw=true)
 
+
+## RL Investments
+
+Here are some previews: 
+![RL Investment Preview](https://github.com/AryaaSk/Other-Projects/blob/main/Previews/RLInvestments.pngraw=true)
 
 ## Other Ideas
 ### Fetch-Decode-Execute Cycle Demo
