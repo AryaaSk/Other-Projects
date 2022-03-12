@@ -4,9 +4,9 @@
 # Table of Contents:
 - [Allergy Menu](#Allergy-Menu)
 - [Plannu](#Plannu)
-- [Colour Game](#Colour-Game)
 - [Connect4](#Connect4)
 - [RL Investments](#RL-Investments)
+- [Colour Game](#Colour-Game)
 - [Other Ideas](#Other-Ideas)
 
 
@@ -46,20 +46,6 @@ It is on the iOS app store here: https://apps.apple.com/us/app/plannu/id15309839
 Here are some previews:
 ![Preview1](https://github.com/AryaaSk/Other-Projects/blob/main/Previews/PlannuPreviews1.png?raw=true)
 ![Preview2](https://github.com/AryaaSk/Other-Projects/blob/main/Previews/PlannuPreviews2.png?raw=true)
-
-
-## Colour Game
-A game where you have to try and get all the colours in the correct order, it shows you your previous moves and you have to use trial and error to get the correct order.
-
-Here is the URL: https://colours.azurewebsites.net
-
-Here are some previews:
-
-![Preview1](https://github.com/AryaaSk/Other-Projects/blob/main/Previews/colourGame1.png?raw=true)
-
-![Preview2](https://github.com/AryaaSk/Other-Projects/blob/main/Previews/colourGame2.png?raw=true)
-
-Correct means the colour is in the correct position, almost means it is 1 within the correct position
 
 
 ## Connect4
@@ -114,6 +100,21 @@ This is just a simple list of all the items and their respective prices.
 Here are some previews: 
 
 ![RL Investment Preview](https://github.com/AryaaSk/Other-Projects/blob/main/Previews/RLInvestments.png?raw=true)
+
+
+## Colour Game
+A game where you have to try and get all the colours in the correct order, it shows you your previous moves and you have to use trial and error to get the correct order.
+
+Here is the URL: https://colours.azurewebsites.net
+
+Here are some previews:
+
+![Preview1](https://github.com/AryaaSk/Other-Projects/blob/main/Previews/colourGame1.png?raw=true)
+
+![Preview2](https://github.com/AryaaSk/Other-Projects/blob/main/Previews/colourGame2.png?raw=true)
+
+Correct means the colour is in the correct position, almost means it is 1 within the correct position
+
 
 
 ## Other Ideas
